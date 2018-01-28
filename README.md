@@ -5,5 +5,6 @@ This is a project from the Free Code Camp website to expand Back-End development
 ## Manual
 
 * git clone
+* npm i
 * node app.js
 * Visit localhost:3000
